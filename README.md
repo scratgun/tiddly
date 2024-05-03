@@ -1,2 +1,2 @@
 # tiddly
-[the wick](tw.html)
+[the wick](index.html)
